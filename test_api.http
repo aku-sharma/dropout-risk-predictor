@@ -1,0 +1,10 @@
+POST http://127.0.0.1:5001/predict
+Content-Type: application/json
+
+{
+  "attendance": 85,
+  "marks": 80,
+  "backlogs": 0,
+  "study_hours": 4,
+  "stress_level": 2
+}
