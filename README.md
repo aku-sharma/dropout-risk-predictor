@@ -5,8 +5,8 @@ A Machine Learning-based web application that predicts the risk of student dropo
 ---
 
 ## 🚀 Live Demo
-👉 Frontend: https://your-app-name.streamlit.app  
-👉 Backend API: https://your-render-api-url  
+👉 Frontend: https://dropout-risk-predictor-fzsah7b3abvhr9kakg9dxa.streamlit.app/ 
+👉 Backend API: https://dropout-api.onrender.com
 
 ---
 
