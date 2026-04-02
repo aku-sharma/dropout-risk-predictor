@@ -18,7 +18,7 @@ if st.button("Predict"):
         "stress_level": stress_level
     }
 
-    response = requests.post("http://127.0.0.1:5001/predict", json=data)
+    response = requests.post("https://dropout-api.onrender.com/predict", json=data)
     result = response.json()
 
     st.success(f"Prediction: {result['prediction']}")
